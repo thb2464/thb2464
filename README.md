@@ -1,3 +1,7 @@
+### Hi there 👋
+
+I'm **Tran Hoang Bao**, a 4th-year IT student at Saigon University, building full-stack applications and exploring modern web technologies.
+
 ### 🌐 Software engineer with pragmatic mindset.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C8DF7&background=AF3CFF00&width=435&lines=Hi+travelers%2C;How's+it+going%3F;You+are+in+my+Github+Profile;Feel+free+to+wander+around+%3C3)](https://git.io/typing-svg)
@@ -47,8 +51,11 @@
 | [2D Platformer Game](https://github.com/thb2464/2D_Platform_Game) | Game Dev | Unity, C#, Physics |
 
 <h2>Connect</h2>
+
 - 📧 Email: tranhoangbaoltk2464@gmail.com
+
 - 📱 Phone: (+84) 797 771 306
+  
 - 💼 [CV](https://github.com/thb2464/thb2464/files/Tran-Hoang-Bao_CV_2026.pdf) available on request
 
 ---
